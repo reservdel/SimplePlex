@@ -1,0 +1,22 @@
+{
+  "name": "simpleplex",
+  "version": "0.0.1",
+  "description": "simple controller using mce controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reservdel/SimplePlex.git"
+  },
+  "keywords": [
+    "simpleplex"
+  ],
+  "author": "simon hedin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reservdel/SimplePlex/issues"
+  },
+  "homepage": "https://github.com/reservdel/SimplePlex#readme"
+}
