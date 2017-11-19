@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/reservdel/SimplePlex/issues"
   },
-  "homepage": "https://github.com/reservdel/SimplePlex#readme"
+  "homepage": "https://github.com/reservdel/SimplePlex#readme",
+  "dependencies": {
+    "neeo-sdk": "^0.47.8"
+  }
 }
